@@ -10,3 +10,5 @@ Continue working in master.
 New line added through console.
 
 Second line added through console.
+
+Third line added in IJ.
